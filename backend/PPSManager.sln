@@ -1,0 +1,35 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PPSManager.API", "PPSManager.API\PPSManager.API.csproj", "{A5A5A5A5-A5A5-A5A5-A5A5-A5A5A5A5A5A5}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PPSManager.Domain", "PPSManager.Domain\PPSManager.Domain.csproj", "{B6B6B6B6-B6B6-B6B6-B6B6-B6B6B6B6B6B6}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PPSManager.Infrastructure", "PPSManager.Infrastructure\PPSManager.Infrastructure.csproj", "{C7C7C7C7-C7C7-C7C7-C7C7-C7C7C7C7C7C7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A5A5A5A5-A5A5-A5A5-A5A5-A5A5A5A5A5A5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A5A5A5A5-A5A5-A5A5-A5A5-A5A5A5A5A5A5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A5A5A5A5-A5A5-A5A5-A5A5-A5A5A5A5A5A5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A5A5A5A5-A5A5-A5A5-A5A5-A5A5A5A5A5A5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B6B6B6B6-B6B6-B6B6-B6B6-B6B6B6B6B6B6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B6B6B6B6-B6B6-B6B6-B6B6-B6B6B6B6B6B6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B6B6B6B6-B6B6-B6B6-B6B6-B6B6B6B6B6B6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B6B6B6B6-B6B6-B6B6-B6B6-B6B6B6B6B6B6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C7C7C7C7-C7C7-C7C7-C7C7-C7C7C7C7C7C7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C7C7C7C7-C7C7-C7C7-C7C7-C7C7C7C7C7C7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C7C7C7C7-C7C7-C7C7-C7C7-C7C7C7C7C7C7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {176F8B5E-69CB-42EF-9CC6-65D4EBD2A8A1}
+	EndGlobalSection
+EndGlobal
